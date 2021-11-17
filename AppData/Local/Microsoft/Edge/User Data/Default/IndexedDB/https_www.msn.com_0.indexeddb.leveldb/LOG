@@ -1,0 +1,8 @@
+2021/03/18-10:12:53.743 549c Reusing MANIFEST C:\Users\김호열\AppData\Local\Microsoft\Edge\User Data\Default\IndexedDB\https_www.msn.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/18-10:12:53.744 549c Recovering log #27
+2021/03/18-10:12:53.745 549c Reusing old log C:\Users\김호열\AppData\Local\Microsoft\Edge\User Data\Default\IndexedDB\https_www.msn.com_0.indexeddb.leveldb/000027.log 
+2021/03/18-10:13:05.987 1fc0 Level-0 table #31: started
+2021/03/18-10:13:05.988 1fc0 Level-0 table #31: 0 bytes OK
+2021/03/18-10:13:05.990 1fc0 Delete type=0 #27
+2021/03/18-10:13:05.990 1fc0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/03/18-10:13:05.990 1fc0 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

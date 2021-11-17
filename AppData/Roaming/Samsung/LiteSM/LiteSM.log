@@ -1,0 +1,10 @@
+2020-10-06 09:25:29,767 [0x000019d4] ERROR (AlertSM.cpp:108) - =========================== LiteSM Logging ===============================
+2020-10-06 09:25:29,767 [0x000019d4] ERROR (AlertSM.cpp:109) -  Process ID		: 6664
+2020-10-06 09:25:29,767 [0x000019d4] ERROR (AlertSM.cpp:110) -  File Name		: c:\windows\system32\spool\drivers\x64\3\us013sm.exe
+2020-10-06 09:25:29,767 [0x000019d4] ERROR (AlertSM.cpp:111) -  File Version		: 1.5.57.0 (2016-08-24)
+2020-10-06 09:25:29,767 [0x000019d4] ERROR (AlertSM.cpp:112) -  Command Line		: "c:\windows\system32\spool\drivers\x64\3\us013sm.exe" /NoLiveUpdate /PrinterName:"Samsung C420 Series (USB001) (0)" /PortName:"USB001" /ModelName:"Samsung C420 Series" /Lang:"KR" /OEMNAME:"Samsung" /WEBTS /Jo?ID:"2" /HostJobID:"0100691531" /UserName:????" /ColorMode:"MONO" /NonGenuineToner
+2020-10-06 09:25:29,768 [0x000019d4] ERROR (AlertSM.cpp:113) - ==========================================================================
+2020-10-06 09:25:29,768 [0x000019d4] ERROR (Logger\Logger.cpp:260) - ******* Writing Port Info to Registry. *******
+2020-10-06 09:25:29,768 [0x000019d4] ERROR (Logger\Logger.cpp:260) - Old info [Model:, PortName:, Mac:]
+2020-10-06 09:25:29,768 [0x000019d4] ERROR (Logger\Logger.cpp:260) - New info [Model:Samsung C420 Series, PortName:USB001, Mac:, IP Assign method:0]
+2020-10-06 09:25:29,768 [0x000019d4] ERROR (Logger\Logger.cpp:260) - **********************************************
